@@ -21,8 +21,10 @@ This will cause Vagrant to download the Linux operating system and install it. T
 vagrant ssh
 ```
 to log in to your newly installed linux VM.
+
 5. find the files for this Project
 inside the VM,change directory to /vagrant/news.
+
 6. run the python programm
 ```
  python newsdb.py
